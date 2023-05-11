@@ -12,10 +12,6 @@
 
 DHI 的专业研究覆盖了整个水与环境领域，从河流、水库、海洋、海岸到城市和工厂。我们 50 多年的潜心研究，创建并实践了无数的解决方案，以应对全球水与环境中的现实挑战。因此，无论是水资源优化配置，提高水环境质量，水环境影响评价或优化调度，我们都可以为您提供专业的帮助。
 
-## 微信公众号：MIKEbyDHI
+## 联系我们：MIKE 官方 QQ 群|公众号：MIKEbyDHI|B 站：DHICHINA
 
-![微信公众号：MIKEbyDHI](../images/WechatAccount.png)
-
-## B 站：DHICHINA
-
-![B 站：DHICHINA](../images/BilibiliAccount.png)
+![联系我们](../images/Account.png)
