@@ -14,4 +14,4 @@ DHI 的专业研究覆盖了整个水与环境领域，从河流、水库、海�
 
 ## 联系我们：MIKE 官方 QQ 群|公众号：MIKEbyDHI|B 站：DHICHINA
 
-![联系我们](../images/Account.png)
+![联系我们](/images/Account.png)
